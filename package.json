@@ -1,9 +1,10 @@
 {
-  "name": "simplepack",
+  "name": "simple-webpack",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node ./lib/index.js"
   },
   "keywords": [],
   "author": "",
